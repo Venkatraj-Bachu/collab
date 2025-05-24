@@ -1,0 +1,14 @@
+May 23 2025
+
+Topic: Dynamic Programming
+1. Leetcode 198: House Robber
+    Notes:
+        Positives: Came up with intution. Was able to identify pattern.
+        Negatives: Forgot about the base cases. Max recursion depth hit.
+        Take Aways: Good progess. Needs practice.
+
+2. Leetcode 746: Min Cost Climbing Stairs
+    Notes:
+        Positives: Came up with intution. Was able to identify pattern.
+        Negatives: Confused on adding the cost. Thought that you pay to reach the step while it is that you pay to cross the step.
+        Take Aways: Should to read the problem statement clearly before diving into coding.
