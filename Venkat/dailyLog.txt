@@ -11,4 +11,19 @@ Topic: Dynamic Programming
     Notes:
         Positives: Came up with intution. Was able to identify pattern.
         Negatives: Confused on adding the cost. Thought that you pay to reach the step while it is that you pay to cross the step.
-        Take Aways: Should to read the problem statement clearly before diving into coding.
+        Take Aways: Should read the problem statement clearly before diving into coding.
+
+May 24 2025
+
+Topic: Dynamic Programming
+1. Leetcode 1137: N-th Tribonacci Number
+    Notes:
+        Positives: Came up with intution. Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
+
+2. Leetcode 740: Delete and Earn
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Wasn't able to identify the need of sorting and eliminate duplicates.
+        Take Aways: Need practice
