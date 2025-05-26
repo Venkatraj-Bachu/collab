@@ -27,3 +27,18 @@ Topic: Dynamic Programming
         Positives: Was able to identify pattern.
         Negatives: Wasn't able to identify the need of sorting and eliminate duplicates.
         Take Aways: Need practice
+
+May 25 2025
+
+Topic: Binary Search
+1. Leetcode 34: Find First and Last Position of Element in Sorted Array
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Not able to implement binary Search
+        Take Aways: Need practice
+
+2. Leetcode 658: Find K Closest Elements
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Not able to implement binary Search
+        Take Aways: Need practice
