@@ -42,3 +42,12 @@ Topic: Binary Search
         Positives: Was able to identify pattern.
         Negatives: Not able to implement binary Search
         Take Aways: Need practice
+
+May 26 2025
+
+Topic: Binary Search
+1. Leetcode 4: Median of Two Sorted Arrays
+    Notes:
+        Positives: Was able to solve the problem using Merging by two pointers in linear time and constant space.
+        Negatives: Not able to implement binary Search. Atleast wasn't able to identify the pattern
+        Take Aways: Good that I solved but need practice for binary Search.
