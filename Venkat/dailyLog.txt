@@ -51,3 +51,18 @@ Topic: Binary Search
         Positives: Was able to solve the problem using Merging by two pointers in linear time and constant space.
         Negatives: Not able to implement binary Search. Atleast wasn't able to identify the pattern
         Take Aways: Good that I solved but need practice for binary Search.
+
+May 27 2025
+Topic: Binary Search
+1. Leetcode 270: Closest Binary Search Tree Value
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
+
+2. Leetcode 72: Search in a Sorted Array of Unknown Size
+    Notes:
+        Positives: Was able to identify pattern. Cam up with solution.
+        Negatives: Came up with Binary search solution but wasn't able to think about the left shift and getting the search place computed.
+        Take Aways: Good.
+
