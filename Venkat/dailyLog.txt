@@ -66,3 +66,16 @@ Topic: Binary Search
         Negatives: Came up with Binary search solution but wasn't able to think about the left shift and getting the search place computed.
         Take Aways: Good.
 
+May 28 2025
+Topic: Binary Search
+1. Leetcode 50: Pow(x, n)
+    Notes:
+        Positives: -
+        Negatives: Wasn't able to think of a log time solution at all.
+        Take Aways: Need practice.
+
+2. Leetcode 367: Valid Perfect Square
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
