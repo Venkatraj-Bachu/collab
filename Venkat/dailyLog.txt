@@ -79,3 +79,11 @@ Topic: Binary Search
         Positives: Was able to identify pattern.
         Negatives: -
         Take Aways: Good.
+
+May 31 2025
+Topic: Binary Search Tree
+1. Leetcode 173: Binary Search Tree Iterator
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Wasn't able to come up with logic.
+        Take Aways: Need to practice.
