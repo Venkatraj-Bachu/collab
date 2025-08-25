@@ -107,3 +107,24 @@ Topic: Binary Search Tree
         Positives: Was able to identify pattern.
         Negatives: Came up with solution but was not sure on to which side should be given priority, successor or predessor.
         Take Aways: Good. Need practice.
+
+August 25 2025
+Topic: Graph
+Completed full Graph pattern tutorial - https://www.youtube.com/watch?v=tWVWeAqZ0WU
+
+Problems-
+    1. Leetcode 997: Find the town Judge
+        Notes:
+            Positives: Somewhat was able to comeup with a solution but not the optimal one.
+            Negatives: Didn't quite understand the pattern.
+            Take Aways: Need practice.
+    2. Leetcode 1791: Find center of star Graph
+        Notes:
+            Positives: Identified pattern and came up with a solution.
+            Negatives: Just did the same as leetcode 997 but could have been done in O(1) time and space. 
+            Take Aways: Need to draw the graph on paper and understand the requirement correctly.
+    3. Leetcode 1971: Find of path exists in graph
+        Notes:
+            Positives: implemented fool proof BFS in first attempt.
+            Negatives: -
+            Take Aways: Seems like having good basics as of now.
