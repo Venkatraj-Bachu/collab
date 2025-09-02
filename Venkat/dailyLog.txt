@@ -11,4 +11,120 @@ Topic: Dynamic Programming
     Notes:
         Positives: Came up with intution. Was able to identify pattern.
         Negatives: Confused on adding the cost. Thought that you pay to reach the step while it is that you pay to cross the step.
-        Take Aways: Should to read the problem statement clearly before diving into coding.
+        Take Aways: Should read the problem statement clearly before diving into coding.
+
+May 24 2025
+
+Topic: Dynamic Programming
+1. Leetcode 1137: N-th Tribonacci Number
+    Notes:
+        Positives: Came up with intution. Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
+
+2. Leetcode 740: Delete and Earn
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Wasn't able to identify the need of sorting and eliminate duplicates.
+        Take Aways: Need practice
+
+May 25 2025
+
+Topic: Binary Search
+1. Leetcode 34: Find First and Last Position of Element in Sorted Array
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Not able to implement binary Search
+        Take Aways: Need practice
+
+2. Leetcode 658: Find K Closest Elements
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Not able to implement binary Search
+        Take Aways: Need practice
+
+May 26 2025
+
+Topic: Binary Search
+1. Leetcode 4: Median of Two Sorted Arrays
+    Notes:
+        Positives: Was able to solve the problem using Merging by two pointers in linear time and constant space.
+        Negatives: Not able to implement binary Search. Atleast wasn't able to identify the pattern
+        Take Aways: Good that I solved but need practice for binary Search.
+
+May 27 2025
+Topic: Binary Search
+1. Leetcode 270: Closest Binary Search Tree Value
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
+
+2. Leetcode 72: Search in a Sorted Array of Unknown Size
+    Notes:
+        Positives: Was able to identify pattern. Cam up with solution.
+        Negatives: Came up with Binary search solution but wasn't able to think about the left shift and getting the search place computed.
+        Take Aways: Good.
+
+May 28 2025
+Topic: Binary Search
+1. Leetcode 50: Pow(x, n)
+    Notes:
+        Positives: -
+        Negatives: Wasn't able to think of a log time solution at all.
+        Take Aways: Need practice.
+
+2. Leetcode 367: Valid Perfect Square
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: -
+        Take Aways: Good.
+
+May 31 2025
+Topic: Binary Search Tree
+1. Leetcode 173: Binary Search Tree Iterator
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Wasn't able to come up with logic.
+        Take Aways: Need to practice.
+
+June 1 2025
+Topic: Binary Search Tree
+1. Leetcode 700: Search in a Binary Search Tree
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Came up with solution.
+        Take Aways: Good.
+
+2. Leetcode 701: Insert into a Binary Search Tree
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Came up with solution.
+        Take Aways: Good.
+
+3. Leetcode 450: Delete Node in a BST
+    Notes:
+        Positives: Was able to identify pattern.
+        Negatives: Came up with solution but was not sure on to which side should be given priority, successor or predessor.
+        Take Aways: Good. Need practice.
+
+August 25 2025
+Topic: Graph
+Completed full Graph pattern tutorial - https://www.youtube.com/watch?v=tWVWeAqZ0WU
+
+Problems-
+    1. Leetcode 997: Find the town Judge
+        Notes:
+            Positives: Somewhat was able to comeup with a solution but not the optimal one.
+            Negatives: Didn't quite understand the pattern.
+            Take Aways: Need practice.
+    2. Leetcode 1791: Find center of star Graph
+        Notes:
+            Positives: Identified pattern and came up with a solution.
+            Negatives: Just did the same as leetcode 997 but could have been done in O(1) time and space. 
+            Take Aways: Need to draw the graph on paper and understand the requirement correctly.
+    3. Leetcode 1971: Find of path exists in graph
+        Notes:
+            Positives: implemented fool proof BFS in first attempt.
+            Negatives: -
+            Take Aways: Seems like having good basics as of now.
